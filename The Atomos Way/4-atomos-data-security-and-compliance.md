@@ -12,7 +12,7 @@ At Atomos Space, security is our greatest priority. We're incredibly proud of th
 
 ## Data Security, Federal Law, and International Treaty Considerations
 
-Atomos Space is developing the next generation of aerospace technology with empowers dramatic efficiency and cost savings for our clients as such, our work falls under the scope of Export Controlled Research.
+Atomos Space is developing the next generation of aerospace technology which empowers dramatic efficiency and cost savings for our clients as such, our work falls under the scope of Export Controlled Research.
 
 Export Controlled Research includes information that is regulated for reasons of national security, foreign policy, anti-terrorism, or non-proliferation. The *International Traffic in Arms Regulations (ITAR)* and *Export Administration Regulations (EAR)* govern this data type. Current law requires that this data be stored in the U.S and that only authorized U.S. persons be allowed access to it.
 
