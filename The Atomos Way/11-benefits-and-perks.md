@@ -1,7 +1,7 @@
 # Benefits & Perks
 
 ## Benefits
-→ [jump to the Employee Benefits and Services Policy](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/Legal%20Stuff/8-employee-benefits-and-services.md)
+→ [jump to the Employee Benefits and Services Policy](https://github.com/atomosspace/handbook/blob/master/Legal%20Stuff/8-employee-benefits-and-services.md)
 
 ### Health Insurance
 
@@ -16,7 +16,7 @@ Health insurance is provided via Kaiser Permanente or Blue Cross Blue Shield PPO
 * Atomos Space doesn't offer vision insurance, but you may optionally select it through Gusto.
 
 ### Paid Time Off
-→ [jump to the Leave of Absense and Time off Policy](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/Legal%20Stuff/9-employee-leaves-of-absense-and-time-off)
+→ [jump to the Leave of Absense and Time off Policy](https://github.com/atomosspace/handbook/blob/master/Legal%20Stuff/9-employee-leaves-of-absense-and-time-off)
 
 Atomos Space offers 15 days of paid vacation days to use at your discretion and the standard national holidays every year.
 

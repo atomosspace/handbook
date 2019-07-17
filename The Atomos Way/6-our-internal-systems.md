@@ -20,10 +20,10 @@ https://wrike.com
 
 This is our team private repository of documents and code that does not fall under EAR or ITAR compliance requirements. It allows us to keep track of document, file, and application versions. This very document resides in our Github repo.
 
-https://github.com/AtomosSpace
+https://github.com/atomosspace
 
 ### Gusto
 
-Gusto is where we manage payroll and benefits for all employees. You may log in to Gusto to review pay stubs, benefits plans, etc. If you have any questions, William can get you pointed in the right direction. 
+Gusto is where we manage payroll and benefits for all employees. You may log in to Gusto to review pay stubs, benefits plans, etc. If you have any questions, William can get you pointed in the right direction.
 
 https://gusto.com

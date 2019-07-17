@@ -12,8 +12,8 @@ Working from home is always an option. Doing so just requires that you're workin
 
 ## From coffee shops
 
-Working from home all the time isn't everyone's cup of coffee. Thus, lots of us choose to work from coffee shops or other third spaces either some of the time or a lot of the time. But of course, but please do mind our [Data Security and Compliance Policy](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/atomos-data-security-and-compliance.md) to ensure that nothing leaks via the cafe wifi.
+Working from home all the time isn't everyone's cup of coffee. Thus, lots of us choose to work from coffee shops or other third spaces either some of the time or a lot of the time. But of course, but please do mind our [Data Security and Compliance Policy](https://github.com/atomosspace/handbook/blob/master/The%20Atomos%20Way/4-atomos-data-security-and-compliance.md) to ensure that nothing leaks via the cafe wifi.
 
 ## From a coworking space
 
-If working from home or from a coffee shop doesn't suit you, then trying a coworking space might just do the trick. Again, please ensure you're working in compliance with our [Data Security and Compliance Policy](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/atomos-data-security-and-compliance.md)
+If working from home or from a coffee shop doesn't suit you, then trying a coworking space might just do the trick. Again, please ensure you're working in compliance with our [Data Security and Compliance Policy](https://github.com/atomosspace/handbook/blob/master/The%20Atomos%20Way/4-atomos-data-security-and-compliance.md)

@@ -63,7 +63,7 @@ As much of the work we do at Atomos Space can be classified as Export-Controlled
 
 Should you need to travel internationally for work, please engage your manager or leadership to form an appropriate strategy that provides you access to the data you need while maintaining compliance with any governing policy or laws.
 
-Please see our [International Travel Guide](https://github.com/joeminock/Atomos_Space_Handbook/blob/master/international-travel-guide.md)
+Please see our [International Travel Guide](https://github.com/atomosspace/handbook/blob/master/international-travel-guide.md)
 
 ### Laws/Regulations/Policies
 [U.S. Department of Commerce, Bureau of Industry and Security Commerce Control List](https://www.bis.doc.gov/index.php/regulations/commerce-control-list-ccl)
