@@ -1,0 +1,7 @@
+# Atomos Space Is You
+
+Everyone working at Atomos Space represents Atomos Space. When a client or partner gets a response from William on support, William is Atomos Space. When a partner reads a white paper by Vanessa about a big breakthrough, Vanessa is Atomos Space. In those situations, all the other stuff we do to cultivate our best image is secondary. What’s right in front of someone in a time of interest or need is what they’ll remember.
+
+That’s what we mean when we say product is everyone’s responsibility, and that it pays to spend the time to recognize that. It means taking the time to get it right and consider the ramifications of an error. This doesn't mean that we must be perfect, but it means that we need to be aware of our blind spots, know our flaws, and collectively leverage our strengths to engineer and build the best technology possible.
+
+It's also worth noting that joining Atomos Space can be all-consuming. You dig Atomos Space, so you feel pressure to contribute, maybe overwhelmingly so. The people who work here are the best and brightest in our industry, so the self-imposed burden to be exceptional is real. But here's the thing: STOP IT. Settle in. We're glad you love this job because we all do too, but at the end of the day it's a job. Do your best work, collaborate with your team, engineer, design, code, write, read, learn, and then turn off your computer and play with your dog. We'll all be better for it.
